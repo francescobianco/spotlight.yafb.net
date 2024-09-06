@@ -15,6 +15,11 @@ La newsletter italiana di ingegneria del software
 
 ## Guida alla consultazione
 
+
+## Come iscriversi
+
+
+
 ## Licenza
 
 Il contenuto di questa newsletter è rilasciato sotto la licenza [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).

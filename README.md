@@ -7,7 +7,7 @@
 La newsletter italiana di ingegneria del software
 
 <img src="https://img.shields.io/badge/Edizione-Mensile-green">
-<img src="https://img.shields.io/badge/Iscritti-423-blue">
+<img src="https://img.shields.io/badge/Iscritti-458-blue">
 
 </div>
 

@@ -20,8 +20,9 @@ La newsletter italiana di ingegneria del software
 
 Per iscriversi alla nostra newsletter, seguite questi semplici passi:
 
-1. **Visitate il link seguente**: [Iscriviti alla Newsletter](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fnewsletters%2Fswe-spotlight-7029058375967457280&trk=news-guest_top-card-primary-button)
+1. **Visitate il link seguente**: [Iscriviti alla Newsletter](https://www.linkedin.com/newsletters/swe-spotlight-7029058375967457280/)
 2. **Accedete con il vostro account LinkedIn**: Una volta cliccato il link, verrete reindirizzati alla pagina della newsletter su LinkedIn.
+3. **Iscrivetevi alla newsletter**: Cliccate il tasto [+Iscriviti] per completare l'iscrizione e iniziare a ricevere le edizioni direttamente sul vostro feed LinkedIn.
 
 Dopo l'iscrizione, potrete consultare tutte le edizioni precedenti e rimanere aggiornati con le ultime notizie.
 

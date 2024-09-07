@@ -4,7 +4,7 @@
 
 # SWE Spotlight
 
-La newsletter italiana di ingegneria del software
+*La newsletter italiana di ingegneria del software*
 
 <img src="https://img.shields.io/badge/Edizione-Mensile-green">
 <img src="https://img.shields.io/badge/Iscritti-458-blue">
@@ -15,6 +15,30 @@ La newsletter italiana di ingegneria del software
 
 ## Guida alla consultazione
 
+La nostra newsletter è pubblicata mensilmente e include anche edizioni speciali con cadenza non regolare. Ogni edizione è strutturata in diverse sezioni, ciascuna con un focus specifico. Ecco una panoramica delle sezioni che troverete:
+
+- 📄 **Papers**  
+  Presentiamo articoli selezionati dalle seguenti fonti: IEEE, ACM, Elsevier, Springer e MDPI. Questi documenti offrono approfondimenti e novità sul settore dell'ingegneria del software.
+
+- 📊 **State of Agile**  
+  Analizziamo lo stato attuale delle pratiche Agile nel nostro settore, con aggiornamenti e trend recenti.
+
+- 🧑‍💼 **People**  
+  Ogni edizione mette in luce una persona di spicco nel campo dell'ingegneria del software, raccontando la sua carriera e i suoi contributi.
+
+- 📚 **Book**  
+  Recensioni e raccomandazioni su libri significativi che possono arricchire la tua conoscenza nel settore.
+
+- 🔢 **Numbers**  
+  Presentiamo dati e statistiche significative che illustrano tendenze e performance nel campo dell'ingegneria del software.
+
+- 🇮🇹 **Italia**  
+  Uno sguardo allo stato dell'ingegneria del software in Italia, con focus su sviluppi e novità locali.
+
+- 🏗️ **Ingegneria**  
+  Forniamo aggiornamenti e informazioni provenienti dagli ordini degli ingegneri, con approfondimenti sulle normative e sulle pratiche professionali.
+
+Ogni sezione è progettata per offrire un valore aggiunto e una panoramica completa delle tematiche rilevanti nel nostro campo. Buona lettura!
 
 ## Come iscriversi
 

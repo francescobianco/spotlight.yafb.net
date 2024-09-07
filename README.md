@@ -50,6 +50,14 @@ Per iscriversi alla nostra newsletter, seguite questi semplici passi:
 
 Dopo l'iscrizione, potrete consultare tutte le edizioni precedenti e rimanere aggiornati con le ultime notizie.
 
+## Il nostro staff
+
+La cura della nostra newsletter è affidata principalmente all'Ing. Francesco Bianco, membro dell'Ordine degli Ingegneri di Trapani con oltre 15 anni di esperienza come consulente nel campo dello sviluppo software. La sua expertise e dedizione sono fondamentali per il successo del nostro progetto.
+
+Oltre a Francesco Bianco, il nostro team include una rete di docenti universitari provenienti da diverse università italiane e di attivi contributori del mondo open source. Questa ampia collaborazione ci consente di arricchire ogni edizione con contenuti di alta qualità e innovativi.
+
+La comunicazione e la collaborazione tra i membri dello staff avvengono principalmente tramite LinkedIn, che ci permette di scambiare idee e coordinare iniziative in modo efficace.
+
 ## Licenza
 
 Il contenuto di questa newsletter è rilasciato sotto la licenza [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).

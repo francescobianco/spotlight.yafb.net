@@ -47,3 +47,7 @@ test
 ## Ingegneria (informazione di ingegneria del software dal fronte degli ordini degli ingegneri)
 
 test
+
+---
+
+Altri formati: [PDF](download.pdf) [HTML](html)

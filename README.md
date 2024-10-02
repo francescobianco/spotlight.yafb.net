@@ -1,6 +1,6 @@
 <div align="center">
 
-![SWE Spotlight](assets/images/logo.jpg)
+![SWE Spotlight](docs/assets/images/logo.jpg)
 
 # SWE Spotlight
 

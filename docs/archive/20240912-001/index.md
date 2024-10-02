@@ -50,4 +50,4 @@ test
 
 ---
 
-Altri formati: [PDF](download.pdf) [HTML](html)
+Altri formati: [PDF](download.pdf), [HTML](html).
